@@ -1,0 +1,9 @@
+version = 1.1
+dataFile = IQSignam.qid
+dateCreated = 2025-04-04-17:36:38
+description = IQ Signal
+segmentID = 1
+numberOfSamples = 1000000
+samplingRate = 500000000
+markerBits = 8
+signalType = IQSignal
