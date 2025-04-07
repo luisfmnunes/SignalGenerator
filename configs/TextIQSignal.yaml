@@ -1,0 +1,9 @@
+output: "TIQSignal.qim"
+description: "Text IQ Signal"
+text: "Hallo"
+samples: 0
+samplingRate: 1.0e+6
+amplitude: 32767
+segmentId: 1
+frequency: 100.e+6
+type: "TIQ"

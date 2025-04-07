@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Output Signals
+*.qid
+*.qim
+*.zip
